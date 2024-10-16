@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - 🌱 I’m currently learning Software Enginnering
 - 💡 I’m looking for help with building consumer-first solutions
-- 📫 How to reach me: contact@tinafeng.com
+- 📫 Let's chat: contact@tinafeng.com
