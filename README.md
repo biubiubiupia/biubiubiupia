@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 😄 Pronouns: she/her
 - 🌱 I’m currently learning Software Enginnering
 - 💡 I’m looking to build consumer-first solutions
 - 📫 Let's chat: contact@tinafeng.com
