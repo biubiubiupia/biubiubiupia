@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Software Enginnering
-- 💡 I’m looking to build consumer-first solutions
+- 💡 I’m looking to build consumer-centric solutions
 - 📫 Let's chat: contact@tinafeng.com
