@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Software Engineering
-- 💡 I’m looking to build consumer-centric solutions
-- 📫 Let's chat: contact@tinafeng.com
+🚀 About Me
+🌱 I’m a recently graduated full-stack software engineer, building skills in React, Node.js, Express, and MySQL.
+💡 I’m passionate about creating intuitive, consumer-centric solutions that make a real impact.
+🌍 I bring 10+ years of experience in marketing communications, collaborating with tech, e-commerce, and creative industries to deliver exceptional user experiences.
+✨ My recent projects include [insert project link/name] and [insert project link/name], where I’ve focused on [short description of what makes them unique].
+📬 Let’s Connect!
+- 📧 Email: contact@tinafeng.com
+- 💼 LinkedIn
+- 🌐 Portfolio
