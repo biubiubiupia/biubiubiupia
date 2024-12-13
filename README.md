@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 💡 I’m passionate about creating intuitive, consumer-centric solutions that make a real impact.
 - 🌍 I bring 10+ years of experience in marketing communications, collaborating with tech, e-commerce, and creative industries to deliver exceptional user experiences.
 ## å📬 Let’s Connect!
-- 📧 Email: contact@tinafeng.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tinayantingfeng/
-- 🌐 Portfolio: tinfeng.com
+- 📧 Email: [contact@tinafeng.com](contact@tinafeng.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tinayantingfeng/)
+- 🌐 [Portfolio](https://tinfeng.com/)
