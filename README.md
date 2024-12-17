@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ## 📬 Let’s Connect!
 - 📧 Email: [contact@tinafeng.com](contact@tinafeng.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tinayantingfeng/)
-- 🌐 [Portfolio](https://tinfeng.com/)
+- 🌐 [Portfolio](https://tinafeng.com/)
