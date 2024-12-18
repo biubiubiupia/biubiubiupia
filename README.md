@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🚀 About Me
+## About Me
 - 🌱 I’ve recently graduated as a full-stack software engineer, with hands-on experience in React, Node.js, Express, and MySQL.
 - 💡 I’m passionate about creating intuitive, consumer-centric solutions that make a real impact.
 - 🌍 I bring 10+ years of experience in marketing communications, collaborating with tech, e-commerce, and creative industries to deliver exceptional user experiences.
-## 📬 Let’s Connect!
+## Let’s Connect!
 - 📧 Email: [contact@tinafeng.com](contact@tinafeng.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tinayantingfeng/)
 - 🌐 [Portfolio](https://tinafeng.com/)
