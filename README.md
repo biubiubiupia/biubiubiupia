@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-- 🌱 I’ve recently graduated as a full-stack software engineer, with hands-on experience in React, Node.js, Express, and MySQL.
+- 🌱 I’m a full-stack software engineer, with hands-on experience in React, Node.js, Express, and MySQL.
 - 💡 I’m passionate about creating intuitive, consumer-centric solutions that make a real impact.
 - 🌍 I bring 10+ years of experience in marketing communications, collaborating with tech, e-commerce, and creative industries to deliver exceptional user experiences.
 ## Let’s Connect!
