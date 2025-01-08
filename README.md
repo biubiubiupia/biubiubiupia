@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 - 🌱 I’m a full-stack software engineer, with hands-on experience in React, Node.js, Express, and MySQL.
 - 💡 I’m passionate about creating intuitive, consumer-centric solutions that make a real impact.
-- 🌍 I bring 10+ years of experience in marketing communications, collaborating with tech, e-commerce, and creative industries to deliver exceptional user experiences.
+- 🌍 I bring 10+ years of experience in marketing communications, collaborating with tech, e-commerce, and creative industries to deliver digital solutions that engage and empower people.
 ## Let’s Connect!
 - 📧 Email: [contact@tinafeng.com](contact@tinafeng.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tinayantingfeng/)
